@@ -69,8 +69,11 @@ Open a Pull Request
 ---
 
 ## 📸 Preview
+<img width="1901" height="910" alt="image" src="https://github.com/user-attachments/assets/cf867659-608c-4e58-891b-d471f469f169" />
 
 
+
+<img width="1894" height="902" alt="image" src="https://github.com/user-attachments/assets/377bb58a-9e10-4748-b577-1093fc5516a6" />
 
 ## 👩‍💻 Author
 Made with ❤️ by Suhani
