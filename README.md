@@ -17,26 +17,26 @@ From opacity blunders to smooth GSAP magic — **CSSpaghetti** is my experimenta
 ## 🚀 Getting Started  
 
 Clone the repo:  
-
+```bash
 git clone https://github.com/Suhani567/CSSpaghetti.git
 cd CSSpaghetti
-
+```
 ---
 
 ## Install dependencies
-
+```bash
 npm install
-
+```
 ---
 ## Run locally:
-
+```bash
 npm run dev
-
+```
 ---
 ## Build for production:
-
+```bash
 npm run build
-
+```
 ---
 
 ## 📂 Tech Stack
@@ -56,15 +56,11 @@ This project was more than just code — it taught me patience, persistence, and
 ## 🤝 Contributing
 Pull requests are welcome! If you have ideas to make animations cooler or fix a bug, feel free to contribute.
 
-Fork the repo
-
-Create a new branch (git checkout -b feature-xyz)
-
-Commit your changes (git commit -m 'Added xyz feature')
-
-Push (git push origin feature-xyz)
-
-Open a Pull Request
+- Fork the repo
+- Create a new branch (git checkout -b feature-xyz)
+- Commit your changes (git commit -m 'Added xyz feature')
+- Push (git push origin feature-xyz)
+- Open a Pull Request
 
 ---
 
