@@ -7,10 +7,9 @@ From opacity blunders to smooth GSAP magic — **CSSpaghetti** is my experimenta
 ---
 
 ## ✨ Features  
-- 🎨 Built with **React + TailwindCSS** for styling  
-- 🎬 Smooth **GSAP animations** for interactivity  
-- ⚡ Fully responsive & interactive UI  
-- 🐞 Born out of real-world **debugging struggles** (opacity issue 😅)  
+- Built with **React + TailwindCSS** for styling  
+- Smooth **GSAP animations** for interactivity  
+- Fully responsive & interactive UI  
 
 ---
 
